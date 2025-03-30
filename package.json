@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "name": "bug-free-octo-guacamole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectricIce3740/bug-free-octo-guacamole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ElectricIce3740/bug-free-octo-guacamole/issues"
+  },
+  "homepage": "https://github.com/ElectricIce3740/bug-free-octo-guacamole#readme"
+}
